@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "All Brands",
+    "code": "all_brands"
+  },
+  {
+    "id": 2,
+    "title": "Hoodie",
+    "code": "hoodie"
+  },
+  {
+    "id": 3,
+    "title": "Pullover",
+    "code": "pullover"
+  },
+  {
+    "id": 4,
+    "title": "T-shirts",
+    "code": "t-shirts"
+  },
+  {
+    "id": 5,
+    "title": "Jeans",
+    "code": "jeans"
+  },
+  {
+    "id": 6,
+    "title": "Pants",
+    "code": "pants"
+  },
+  {
+    "id": 7,
+    "title": "Shorts",
+    "code": "shorts"
+  },
+  {
+    "id": 8,
+    "title": "Sneakers",
+    "code": "sneakers"
+  }
+]
